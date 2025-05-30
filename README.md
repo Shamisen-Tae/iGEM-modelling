@@ -13,5 +13,6 @@ all fasta files -> a csv file -> alphafold -> pdb files of individal fasta file 
 
 Running the script: 
 - put all the fasta files in the parent folder, make sure the naming doesn't contain special character, underscore is allowed
+- add name + path of the fasta files to the line that creates the csv file
 - Run: nextflow run af_pymol.nf
 
