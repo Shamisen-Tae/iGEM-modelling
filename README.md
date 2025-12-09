@@ -1,4 +1,8 @@
 # iGEM-modelling
+
+Check out UBC iGEM's website for the work I've done!
+https://2025.igem.wiki/ubc-vancouver/biocementing-bacteria/modelling/
+
 Requirements: 
 - install nextflow: 
 https://www.nextflow.io/docs/latest/install.html
